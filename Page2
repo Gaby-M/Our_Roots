@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <title>Our Roots</title>
+    <style>
+      
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: "Catamaran", sans-serif;
+      }
+      img {
+        width: 100%;
+      }
+
+      h3 {
+        font-family: "Shadows Into Light", sans-serif;
+      }
+
+      .headertext {
+        position: relative;
+        top: 1035px;
+        left: 20%;
+        font-size: 15px;
+        color: #1A1D2F;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0px;
+      }
+
+      a {
+        text-decoration: none;
+        color:#CA5546
+      }
+
+      a:hover {
+        color: #BA254D;
+      }
+
+      .aboutText {
+        font-size: 50px;
+        width: 70%;
+        display: inline-block;
+        margin-left: 70px;
+        color: #dd9a14
+      }
+
+      .links {
+        display: inline-block;
+      }
+
+      .about {
+        
+        font-size: 47px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #FEf675;
+        color: #1A1D2F;
+      }
+
+      .experience {
+        font-size:40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+        background-color: #FEf675;
+        color: #609844
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+      <img src="roots.jpeg">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="green.jpeg"
+      style="position:absolute;
+      width:100%;
+      top: -24px;
+      left:0px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="tran.png"
+      style="position:absolute;
+      width:100%;
+      top: 0px;>
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="grove.png"
+      style="position:absolute;
+      width:100%;
+      top: 100px;>
+    </div>
+        
+    <div style="position:relative;
+     "> 
+      <img src="orange.png"
+      style="position:absolute;
+      width:100%;
+      top: 1255px;>
+    </div>
+
+    <div class="headertext">
+        <h1>3300 Grand Ave, Miami, FL 33133</h1>
+      </div>
+    
+    <div class="about">
+      <div class="links">
+        <h2></h2>
+        
+      </div>
+      <div class="aboutText">
+        
+      </div>
+    </div>
+    
+    <div class="experience">
+
+      <center><font size=""><h2>3300 Grand Ave, Miami, FL 33133</h2></font></center>
+      <center><p>Best and the least expensive fruit and vegetable market, with a lot of authentic foods from Israel and South America. </p></center>
+      <center><ul>
+        <a href=https://page2.gabrielamuriel2.repl.co>
+          <li></i>For more information, click here!</li></a>
+      </ul></center>
+
+      <h4>`</h4>
+      <center><font size=""><h2>➼ 13601 Biscayne Blvd, North Miami Beach, FL 33181</h2></font></center>
+      <center><font size=""><h2>➼ Opens at Sunday at 9am - 6pm</h2></font></center>
+      <center><font size=""><h2>➼ Opens at Monday through Saturday at 8am - 8pm</h2></font></center>
+      <center><font size=""><h2>➼ (305) 705-3450</h2></font></center>
+    
+      <center><font size=""><h2>⭒</h2></font></center>
+      <center><font size=""><h2>⭒</h2></font></center>
+      <center><font size=""><h2>⭒</h2></font></center>
+      <center><font size=""><h2>⭒</h2></font></center>
+    
+      </div>
+  </body>
+</html>
