@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Catamaran&family=Shadows+Into+Light&display=swap"
+    rel="stylesheet">
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+    <title>Our Roots</title>
+    <style>
+      
+      body {
+        padding: 0;
+        margin: 0;
+        font-family: "Catamaran", sans-serif;
+      }
+      img {
+        width: 100%;
+      }
+
+      h3 {
+        font-family: "Shadows Into Light", sans-serif;
+      }
+
+      .headertext {
+        position: absolute;
+        top: 22%;
+        left: 10%;
+        font-size: 60px;
+        color: #ebf7f6;
+      }
+
+      ul {
+        list-style-type: none;
+        padding-left: 0px;
+      }
+
+      a {
+        text-decoration: none;
+        color:#CA5546
+      }
+
+      a:hover {
+        color: #BA254D;
+      }
+
+      .aboutText {
+        font-size: 50px;
+        width: 70%;
+        display: inline-block;
+        margin-left: 70px;
+        color: #B47A1B
+      }
+
+      .links {
+        display: inline-block;
+      }
+
+      .about {
+        font-size: 47px;
+        padding-bottom: 20px;
+        padding-left: 70px;
+        background-color: #DCE49A;
+        color: #35559c;
+      }
+
+      .experience {
+        font-size:40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+        background-color: #F2EEE7;
+        color: #609844
+      }
+      
+    </style>
+  </head>
+  <body>
+    <div>
+      
+      <img src="Cover.png">
+      <div class="headertext">
+        <h1></h1>
+      </div>
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="green.jpeg"
+      style="position:absolute;
+      width:100%;
+      top: -24px;
+      left:0px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="why.png"
+      style="position:absolute;
+      width:400px;
+      height:400px;
+      top: -250px;
+      left:120px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="transition.png"
+      style="position:absolute;
+      width:100%;
+      top: 1900px;
+      right:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="Miami.png"
+      style="position:absolute;
+      width:100%;
+      top: 2000px;
+      right:0px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="spoon.png"
+      style="position:absolute;
+      width:500px;
+      height:500px;
+      top: 3330px;
+      right:215px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="knife.png"
+      style="position:absolute;
+      width:500px;
+      height:500px;
+      top: 4200px;
+      right:215px;">
+    </div>
+    
+    <div style="position:relative;
+     "> 
+      <img src="fork.png"
+      style="position:absolute;
+      width:500px;
+      height:500px;
+      top: 4970px;
+      right:215px;">
+    </div>
+
+    <div style="position:relative;
+     "> 
+      <img src="carrot.png"
+      style="position:absolute;
+      width:250px;
+      height:250px;
+      top: 5850px;
+      right:330px;">
+    </div>
+    
+    <div class="about">
+      <div class="links">
+        <h2></h2>
+        <p></p>
+      </div>
+      <div class="aboutText">
+        <h4>Welcome to our mobile website that connects local farmers and food producers with consumers in your area! </h4>
+        
+        <h4>We're passionate about promoting sustainable agriculture, supporting small businesses, and helping you to eat healthier and more locally sourced foods.</h4>
+
+        <h4>Discover and connect with the farmers and food producers in your community, and start enjoying some of the freshest and most delicious food around. Thank you for joining us on this journey towards a more sustainable and community-oriented food system!</h4>
+      </div>
+    </div>
+    
+    <div class="experience">
+      <font size="+4"><h2>For You</h2></font>
+      <font size="+4"><h2>For You</h2></font>
+      <font size="+4"><h2>For You</h2></font>
+      <font size="+4"><h2>For Yo</h2></font>
+      <font size="+4"><h2>For You</h2></font>
+      
+      <center><font size=""><h2>Coconut Grove Organic Market</h2></font></center>
+      <center><p>Saturday open-air farmer’s market provides a variety of organic fruits, veggies, & raw vegan foods. </p></center>
+      <center><ul>
+        <a href=https://p1.gabrielamuriel2.repl.co>
+          <li></i>For more information, click here!</li></a>
+      </ul></center>
+
+      <center><font size=""><h2>.</h2></font></center>
+      <center><font size=""><h2>Mr Fresh Farmers Market</h2></font></center>
+      <center><p>Excellent grocery store that offers fresh tropical fruits and veggies. Which also makes fresh squeezed juices from the tropical fruits.</p></center>
+      <center><ul>
+        <a href=https://p2.gabrielamuriel2.repl.co>
+          <li></i>For more information, click here!</li></a>
+      </ul></center>
+
+      <center><font size=""><h2>.</h2></font></center>
+      <center><font size=""><h2>Fruteria La Hacienda Market</h2></font></center>
+      <center><p>Best and the least expensive fruit and vegetable market, with a lot of authentic foods from Israel and South America. </p></center>
+      <center><ul>
+        <a href=https://p3.gabrielamuriel2.repl.co>
+          <li></i>For more information, click here!</li></a>
+      </ul></center>
+
+      <center><font size=""><h2>.</h2></font></center>
+      <center><font size=""><h2>Pinecrest Farmers' Market</h2></font></center>
+      <center><p>A market that is a very calm and nice place to go with family, friends, and pets with delicious food options.  </p></center>
+      <center><ul>
+        <a href=https://p4.gabrielamuriel2.repl.co>
+          <li></i>For more information, click here!</li></a>
+      </ul></center>
+      <center><font size=""><h2>.</h2></font></center>
+    
+      </div>
+  </body>
+</html>
